@@ -9,11 +9,15 @@ This dashboard provides a comprehensive visual analysis of product sales in the 
 - Evaluate assortment effectiveness and identify underperforming segments
 - Support decision-making on promotional mechanics and assortment optimisation
 
+---
+
 ## Business Context
 
 The dashboard was created to assist product, brand, and marketing teams in monthly business review meetings. It helps evaluate whether the company is meeting its 5% monthly revenue growth target and maintaining the 95% buyout rate goal.
 
 When metrics fall short, the dashboard helps identify underperforming segments for deeper analysis or promotional action (discounts, bundles, etc.). Price sensitivity is assessed using scatter plots showing the relation between average price and buyout rate.
+
+---
 
 ## File Structure
 
@@ -29,6 +33,8 @@ When metrics fall short, the dashboard helps identify underperforming segments f
     └── how_to.png                 # Screenshot of the How-To guide
 ```
 
+---
+
 ## Key Metrics
 
 - Revenue (December, November)
@@ -36,6 +42,8 @@ When metrics fall short, the dashboard helps identify underperforming segments f
 - Price (December, November)
 - Buyout Rate
 - Revenue MoM
+
+---
 
 ## Dimensions
 
@@ -45,6 +53,8 @@ When metrics fall short, the dashboard helps identify underperforming segments f
 - Country  
 - Month  
 
+---
+
 ## Data Sources
 
 - `Products` (sheet in `data.xlsx`): contains SKU, category, brand, product type, sales, price, revenue, and buyout rate per product
@@ -52,11 +62,15 @@ When metrics fall short, the dashboard helps identify underperforming segments f
 
 Connection type: Manual import
 
+---
+
 ## Calculations
 
 - Revenue MoM and Buyout Rate are calculated using manually aggregated expressions
 - Custom parameters are used for flexible filtering
 - Top N filters are handled using RANK() fields in scatter plots
+
+---
 
 ## Dashboard Structure
 
@@ -69,12 +83,16 @@ Connection type: Manual import
 - Map: Average product price by country
 - Bubble chart: Sales volume by brand
 
+---
+
 ## Filters
 
 - Category  
 - Brand  
 - Country  
 - Month  
+
+---
 
 ## Usage Guide
 
@@ -84,11 +102,14 @@ The project includes:
 * `project_overview.md` for full business context
 * `how_to.md` and How-To tab inside Tableau for internal onboarding
 
+---
+
 ## Tableau Public Link
 
 Access the dashboard live on [Tableau Public](https://public.tableau.com/app/profile/artemietu/viz/financial_overview_17501448537580/FinancialOverview?publish=yes)
 
+---
+
 ## Author
 
-Artemie Țurcanu — Data Analyst  
-artemietu@icloud.com
+Artemie Țurcanu — Data Analyst
