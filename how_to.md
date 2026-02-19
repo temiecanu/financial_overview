@@ -8,7 +8,7 @@ Financial Overview
 
 **Dashboard Owner:**
 
-Artemie Țurcanu (Data Analyst) — artemietu@icloud.com
+Artemie Țurcanu (Data Analyst) — artemie.turcanu@icloud.com
 
 **Purpose:**
 
