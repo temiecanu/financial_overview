@@ -106,7 +106,7 @@ The project includes:
 
 ## Tableau Public Link
 
-Access the dashboard live on [Tableau Public](https://public.tableau.com/app/profile/artemietu/viz/financial_overview_17501448537580/FinancialOverview?publish=yes)
+Access the dashboard live on [Tableau Public](https://public.tableau.com/app/profile/temiecanu/viz/financial_overview_17932573092130/FinancialOverview)
 
 ---
 
